@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.chatlog.controller.ChatLogControllerTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-11-05T20:24:34" hostname="cpm-Latitude-3410" time="0.067">
+  <properties/>
+  <testcase name="deleteAllTest" classname="org.chatlog.controller.ChatLogControllerTest" time="0.048"/>
+  <testcase name="getChatLogsByStartKeyTest" classname="org.chatlog.controller.ChatLogControllerTest" time="0.006"/>
+  <testcase name="deleteByIdTest" classname="org.chatlog.controller.ChatLogControllerTest" time="0.002"/>
+  <testcase name="deleteByInvalidIdTest" classname="org.chatlog.controller.ChatLogControllerTest" time="0.001"/>
+  <testcase name="deleteAllForInvalidUserTest" classname="org.chatlog.controller.ChatLogControllerTest" time="0.001"/>
+  <testcase name="getChatLogsByDefaultLimitTest" classname="org.chatlog.controller.ChatLogControllerTest" time="0.001"/>
+  <testcase name="getChatLogsByDefaultKeyTest" classname="org.chatlog.controller.ChatLogControllerTest" time="0.001"/>
+  <testcase name="createMultipleEntryTest" classname="org.chatlog.controller.ChatLogControllerTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
